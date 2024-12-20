@@ -1,6 +1,6 @@
 # State Scholarship Recommendation System
 
-This project is a **[State Scholarship Recommendation System](https://nic-bms-engine.netlify.app/)** developed for NIC, Tripura (BMS Live Project). The system utilizes machine learning techniques to recommend suitable scholarships based on student data.
+This project is a **[State Scholarship Recommendation System](https://nic-bms.netlify.app/)** developed for NIC, Tripura (BMS Live Project). The system utilizes machine learning techniques to recommend suitable scholarships based on student data.
 
 ## Features
 - **Machine Learning Models**: Built using Python, NumPy, Pandas, and Sklearn.
